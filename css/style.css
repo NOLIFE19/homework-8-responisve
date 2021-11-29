@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montagu+Slab&display=swap');
+.logo {
+    font-size: 32px;
+    color: #3D37F1;
+    margin-left: 132px; 
+}
+.ui{
+    font-weight: lighter;  
+    color: #4B647E;
+}
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    font-family: 'Lato', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1708px;
+    width: 100%;
+}
+.nav-a {
+    color: #3D37F1;
+}
+.nav-ul{
+    display: flex;
+    margin-right: 150px;  
+}
+.nav-li {
+    margin-left: 50px;
+    font-weight: bold; 
+    
+}
+
+.sec {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     margin-top: 200px;
+     max-width: 1708px;
+     width: 100%;
+     margin-left: auto;
+     margin-right: auto;
+}
+.img {
+    max-width: 650px;
+    width: 100%;  
+}
+.box1{
+   max-width: 600px;
+   width: 100%;
+}
+
+.box1-header {
+    font-size: 78px;
+    color: #534D4D;
+    font-family: 'Lato', sans-serif;
+    line-height: 108px;
+}
+
+
+.h{
+    font-size: 22px;
+    color: #534D4D;
+    font-weight: 400;
+    margin-top: 44px;
+    font-family: 'Lato', sans-serif;
+}
+.wave {
+    width: 200px;
+    height: 76px;
+    background: #3D37F1;
+    color: white;
+    border-radius: 38px;
+    font-size: 23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lato', sans-serif;
+    margin-top: 83px;
+    cursor: pointer;
+}
+.sec2 {
+    justify-content: center;
+    margin-top: 150px;
+    display: flex;
+    max-width: 712px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sec2-header {
+    width: 720px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.sec2-h3 {
+    color: #3D37F1;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sec2-h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 24px;
+    color: #5A5454;
+}
+.sec2-p{
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 28px;
+    font-family: 'Lato', sans-serif;
+    width: 712px;
+}
+
+
+/* all blocks */
+.div-block1{
+    width: 370px;
+    height: 451px;
+    background-color: #FBBA77;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    
+}
+.div-block2{
+    width: 370px;
+    height: 451px;
+    background-color: #41EAE3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+
+}
+.div-block3{
+    width: 370px;
+    height: 451px;
+    background-color:#69529F ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+.div-block4{
+    width: 370px;
+    height: 451px;
+    background-color:#4386D2 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+.div-block5{
+    width: 370px;
+    height: 451px;
+    background-color:#CCCCCC ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+.div-block6{
+    width: 370px;
+    height: 451px;
+    background-color:#FF8088 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+.all-block{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1180px;
+    
+    margin: 30px auto;
+
+}
+.text-block{
+    font-size: 22px;
+    margin-bottom: 13px;
+    font-family: 'Montagu Slab', serif;
+}
+.photo-1{
+    margin-top: 88px;
+    margin-bottom: 20px;
+}
+.text-p{
+    font-size: 16px;
+    margin-bottom: 23px;
+}
+.read{
+    border: 2px solid white;
+  padding: 10px;
+  border-radius: 25px;
+  
+    
+
+}
+.active:hover{
+    background: white;
+    color: black;
+
+}
+/* end blocks */
